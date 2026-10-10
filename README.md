@@ -1,6 +1,6 @@
 # Hi there, I'm Rabiya Quadri 👋
 
-### **AI Systems & R&D Researcher | Edge Computer Vision & Embedded AI Specialist**
+### **AI Researcher & Systems Specialist | Edge Computer Vision & Embedded AI Specialist**
 
 > *Building smart devices from the ground up and edge-optimized autonomous systems.*
 
